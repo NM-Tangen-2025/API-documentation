@@ -11,8 +11,7 @@
   - kilde
   - dato
   - lengde
-- arrangementstyper:
-  - navn
+  
 - arrangementer (konserter, matfestival, kunstutstilling):
   - arrangementstype
   - tittel
