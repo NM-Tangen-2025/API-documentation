@@ -27,13 +27,13 @@
    - bildereferanse/bilde
      
 - informasjonsartikler, historie om tallshipsraces
-  - navn
+  - tittel
   - ingress
   - innhold
   - bildereferanse/bilde
     
 - nyhetsartikler
-  - navn
+  - tittel
   - dato
   - ingress
   - innhold
