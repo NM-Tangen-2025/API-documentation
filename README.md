@@ -93,5 +93,5 @@ Disse kan brukes dersom man skal lage en responsiv UI, feks mobiltilpasset.
 
 ### Eksempel på en mulig løsning der en henter innhold fra strapi API: 
 
-Se [`example.mjs`](example.mjs)
+Se [`NM-eksempel.png`](NM-eksempel.png)
 
