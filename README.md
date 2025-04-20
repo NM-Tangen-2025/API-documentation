@@ -21,10 +21,6 @@ Det er satt opp en Strapi-instans som inneholder artikler, bilder og arrangement
 Strapi er et headless CMS - det vil si at det tilbyr en API som deltagerne kan bruke 
 til å hente ut data, feks artikler, bilder og andre media. 
 
-Det er ikke nødvendig å kunne detaljene rundt Strapi og Strapi sitt REST-API
-for å hente ut NM-innhold - dere kan bruke eksemplene her i stedet.   
-Detaljert informasjon om Strapi finner man her, om ønskelig: https://docs.strapi.io/cms/api/rest
-
 En forenklet dokumentasjon for Tangen VGS sin Tall Ships Races API kommer under: 
 
 ### 2.1 Generell dokumentasjon for nyhetsartikler, bilder og arrangementer
@@ -94,4 +90,11 @@ Disse kan brukes dersom man skal lage en responsiv UI, feks mobiltilpasset.
 ### Eksempel på en mulig løsning der en henter innhold fra strapi API: 
 
 Se [`NM-eksempel.png`](NM-eksempel.png)
+
+
+### 2.4 Strapi API generell informasjon
+
+Det er ikke nødvendig å kunne detaljene rundt Strapi og Strapi sitt REST-API
+for å hente ut NM-innhold - dere kan bruke eksemplene her i stedet.   
+Detaljert informasjon om Strapi finner man her, om ønskelig: https://docs.strapi.io/cms/api/rest
 
