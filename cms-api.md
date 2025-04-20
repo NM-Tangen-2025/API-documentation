@@ -72,7 +72,7 @@ Disse kan brukes dersom man skal lage en responsiv UI, feks mobiltilpasset.
 
 ### Eksempel på en mulig løsning der en henter innhold fra strapi API: 
 
-Se [`NM-eksempel.png`](NM-eksempel.png)
+Se [`CMS-API-eksempel`](cms-api-eksempel.png)
 
 
 ### Strapi API generell informasjon
