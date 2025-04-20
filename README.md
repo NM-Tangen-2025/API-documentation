@@ -6,7 +6,7 @@ hente ut data om Tall Ships Races 2025.
 Det er to sett med API'er: Ett for å hente ut data om skip og skips-posisjoner, 
 og ett for å hente ut artikler, bilder og arrangementer. 
 
-## API for skip og skips-posisjoner
+## 1. API for skip og skips-posisjoner
 
 API'et har endepunkter for å hente ut skip og skips-posisjoner. For hvert skip kan man hente ut 
 navn, land og bilde. 
@@ -15,7 +15,7 @@ API'et er dokumentert her:
 https://snmapi-demo.tanvgs.no/
 
 
-## API for artikler, bilder og arrangementer
+## 2. API for artikler, bilder og arrangementer
 
 Det er satt opp en Strapi-instans som inneholder artikler, bilder og arrangementer. 
 Strapi er et headless CMS - det vil si at det tilbyr en API som deltagerne kan bruke 
@@ -27,7 +27,7 @@ Detaljert informasjon om Strapi finner man her, om ønskelig: https://docs.strap
 
 En forenklet dokumentasjon for Tangen VGS sin Tall Ships Races API kommer under: 
 
-### Generell dokumentasjon
+### 2.1 Generell dokumentasjon for nyhetsartikler, bilder og arrangementer
 
 Adressen til serveren er: `https://fortunate-bear-715099df12.strapiapp.com`
 
@@ -37,7 +37,7 @@ For å få med alle attributtene til innholdet, inkludert eventuell bilde-lenke,
 Mao: For å hente ut alle `Arrangementer` med alle attributter, kan dere bruke følgende URL:
 `https://fortunate-bear-715099df12.strapiapp.com/api/Arrangementer?populate=*`
 
-### Autentisering 
+### 2.2 Autentisering mot nyhetsartikler, bilder og arrangementer
 
 Alle kall til API'et må inkludere i http-headeren et "bearer token", altså en API-nøkkel. 
 
