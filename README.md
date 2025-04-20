@@ -4,7 +4,7 @@
 
 ## Tvist
 
-[Tvisten](Tvist-nm-utvikling-25.pdf)
+NM-oppgaven finner dere her: [Tvisten](Tvist-nm-utvikling-25.pdf)
 
 ## API for skip og skips-posisjoner
 
@@ -28,4 +28,4 @@ API for å hente ut nyhetsartikler, arrangementer, lokasjoner og bilder:
 
 ## Vurderingskriterier
 
-[Vurderingskriterier](vurderingskriterier.md)
+[Vurderingskriterier](vurderingskriterier.pdf)
