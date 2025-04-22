@@ -12,7 +12,7 @@ API'et har endepunkter for å hente ut skip og skips-posisjoner. For hvert skip 
 navn, land og bilde. 
 
 API'et er dokumentert her:
-https://api.skolenm.tanvgs.no/ships/
+https://api.skolenm.tanvgs.no/
 
 
 ## API for CMS-innhold
