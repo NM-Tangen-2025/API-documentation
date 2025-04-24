@@ -13,6 +13,7 @@ navn, land og bilde.
 
 API'et er dokumentert her:
 https://api.skolenm.tanvgs.no/
+https://api.skolenm.tanvgs.no/demo/
 
 
 ## API for CMS-innhold
