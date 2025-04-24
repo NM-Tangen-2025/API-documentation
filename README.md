@@ -13,6 +13,8 @@ navn, land og bilde.
 
 API'et er dokumentert her:
 https://api.skolenm.tanvgs.no/
+
+her er en demo:
 https://api.skolenm.tanvgs.no/demo/
 
 
